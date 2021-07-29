@@ -1,4 +1,3 @@
-# COGS109-Final
-COGS 109 Final Project - Predicting Housing Prices
+# Real Estate Prediction
 https://www.overleaf.com/9216842777ffxfchvydtmc
-https://www.kaggle.com/harlfoxem/housesalesprediction
+<br>https://www.kaggle.com/harlfoxem/housesalesprediction
