@@ -1,3 +1,8 @@
 # Real Estate Prediction
-https://www.overleaf.com/9216842777ffxfchvydtmc
-<br>https://www.kaggle.com/harlfoxem/housesalesprediction
+Dataset: https://www.kaggle.com/harlfoxem/housesalesprediction
+<br>
+### Models:
+<li> - Multiple Linear Regression
+<li> - Lasso Regression
+<li> - Neural Network
+<li> - K-Fold Cross-Validation
